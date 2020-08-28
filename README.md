@@ -71,7 +71,7 @@ https://github.com/chandrikadeb7/Face-Mask-Detection
 ### 지하철 마스크 착용 여부 판단 프로젝트
 문제: 어떻게 하면 마스크 미착용자의 지하철 탑승을 막을 것인가?  
 해결: 개찰구에서 마스크 착용 여부를 파악하여 미착용자는 개찰구를 통과할 수 없게 만들자!  
-
+![mask_detect](./image/mask_detect.png)  
 
 
 
